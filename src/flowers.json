@@ -1,0 +1,50 @@
+[
+  {
+    "breed": "red-rose",
+    "image": "https://images.pexels.com/photos/56866/garden-rose-red-pink-56866.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=350"
+  },
+  {
+    "breed": "blue-rose",
+    "image": "https://images.pexels.com/photos/67636/rose-blue-flower-rose-blooms-67636.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  },
+  {
+    "breed": "orang-rose",
+    "image": "https://images.pexels.com/photos/39517/rose-flower-blossom-bloom-39517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  },
+  {
+    "breed": "lily",
+    "image": "http://www.flowerglossary.com/wp-content/uploads/2017/09/lily-flower.jpg"
+  },
+  {
+    "breed": "plum-flower",
+    "image": "https://images.pexels.com/photos/133079/pexels-photo-133079.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  },
+  {
+    "breed": "hibiscus",
+    "image": "https://images.pexels.com/photos/244796/pexels-photo-244796.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  },
+  {
+    "breed": "sunflower",
+    "image": "https://images.pexels.com/photos/54267/sunflower-blossom-bloom-flowers-54267.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  },
+  {
+    "breed": "anemone",
+    "image": "http://www.flowerglossary.com/wp-content/uploads/2017/09/anemone.jpg"
+  },
+  {
+    "breed": "astilbe",
+    "image": "http://www.flowerglossary.com/wp-content/uploads/2017/09/astilbe.jpg"
+  },
+  {
+    "breed": "canterbury",
+    "image": "http://www.flowerglossary.com/wp-content/uploads/2017/09/canterbury-bells.jpg"
+  },
+  {
+    "breed": "crocus",
+    "image": "https://images.pexels.com/photos/8204/night.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  },
+  {
+    "breed": "gaillardia",
+    "image": "http://www.flowerglossary.com/wp-content/uploads/2017/09/gaillardia.jpg"
+  }
+]
