@@ -12,7 +12,7 @@ This application is a memory game created with React. The application's UI is br
 
 3. Once the score is reset after an incorrect guess, the game restarts.
 
-4. To check out the app click [here](https://clicky-game.netlify.com/)
+4. To check out the app click [here](https://react-clicky-game2018.herokuapp.com/)
 
 ### Main technologies used:
 
