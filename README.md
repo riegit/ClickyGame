@@ -14,6 +14,8 @@ This application is a memory game created with React. The application's UI is br
 
 4. To check out the app click [here](https://react-clicky-game2018.herokuapp.com/)
 
+![alt text](https://github.com/riegit/ClickyGame/blob/master/public/img/homepage.png)
+
 ### Main technologies used:
 
 - React
